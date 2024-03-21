@@ -288,7 +288,7 @@ lo que se llama el SCOPE de las variables
 
     /* function unaFuncionQueDevuelveValor() {
       console.log("Uno");
-      return 19;
+      return 19; //Al poner return en éste espacio, el compilador ignora todas las líneas siguientes. 
       console.log("Dos");
       console.log("Tres");
       return "La función ha retornado una Cadena de texto";
