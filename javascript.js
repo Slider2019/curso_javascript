@@ -171,7 +171,7 @@ lo que se llama el SCOPE de las variables
     //let saludo = "Hola mi nombre es " + nombre + " " + apellido + ".";
     //console.log(saludo);
 
-    //Interpolción de variables
+    //Interpolación de variables
     //Template String
     /* let saludo2 = `Hola mi nombre es ${nombre} ${apellido}.`;
     console.log(saludo2);
@@ -180,7 +180,7 @@ lo que se llama el SCOPE de las variables
 
     console.log(ul);
 
-    let ul2 = `
+    let ul2 = ` //Al poner las comillas invertidas`` se puede crear una estructura como en html
       <ul>
         <li>Primavera</li>
         <li>Verano</li>
