@@ -128,7 +128,8 @@ etc.
 
 ------------------------------------------
 
-
+Las variables en los lenguajes de programacion tienen un ambito de existencia
+lo que se llama el SCOPE de las variables
 
 
 */
