@@ -138,7 +138,7 @@ lo que se llama el SCOPE de las variables
 
 /* **********     Curso JavaScript: 5. Cadenas de Texto (Strings) - #jonmircha     ********** */
 
-    /*
+    
         //Cadenas de Texto aka Strings
         let nombre = "Diego";
         let apellido = 'Rojas';
@@ -156,8 +156,8 @@ lo que se llama el SCOPE de las variables
           lorem.includes("Diego"), //Propiedad .includes (Mustra si el valor "Diego" se encuentra dentro de la cadena "lorem")
           lorem,
           lorem.trim(), //Propiedad .trim (Borra los espacios en blanco dentro de la cadena "lorem")
-          lorem.split(" "), //
-          lorem.split(",") //
+          lorem.split(" "), //Propiedad .split("") (Separa los espacios en blanco entre comillas)
+          lorem.split(",") //Propiedad .split (",") (Separa los espacios en blanco con comas)
         );
     */
 
