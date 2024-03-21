@@ -138,7 +138,7 @@ lo que se llama el SCOPE de las variables
 
 /* **********     Curso JavaScript: 5. Cadenas de Texto (Strings) - #jonmircha     ********** */
 
-    
+    /*
         //Cadenas de Texto aka Strings
         let nombre = "Diego";
         let apellido = 'Rojas';
